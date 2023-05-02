@@ -33,7 +33,7 @@ The data comprises around 7000 images of people’s eyes under different lightin
 Now, you can use this model to classify if a person’s eye is open or closed.
 
 Alternatively, if you want to build and train your own model, you can download the dataset:
- - [ Driver Drowsiness Dataset](https://data-flair.training/blogs/download-driver-drowsiness-detection-project-data/)
+ - [ Driver Drowsiness Dataset](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new)
 
 
 ## Screenshots and testing
