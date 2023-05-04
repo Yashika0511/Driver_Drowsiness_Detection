@@ -32,19 +32,19 @@ The data comprises around 7000 images of people’s eyes under different lightin
 
 Now, you can use this model to classify if a person’s eye is open or closed.
 
-Alternatively, if you want to build and train your own model, you can download the dataset:
+We are using this dataset:
  - [ Driver Drowsiness Dataset](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new)
 
 
 ## Screenshots and testing
 
-if the score<15 means the driver is not sleepy, if it get increased and reaches upto 15 or more than that ,the drowsiness get detected and it will beep alarm.
+If the score<15 means the driver is not sleepy, if it get increased and reaches upto 15 or more than that ,the drowsiness get detected and it will beep alarm.
 The alarm will get automatically stop when the score will reaches below 15 .
 # output
 ![photo_2023-04-28_22-22-57](https://user-images.githubusercontent.com/88017738/235731820-ae9ba2e5-6830-4832-a85f-4fa68bc01466.jpg)
 ![photo_2023-04-28_22-23-13](https://user-images.githubusercontent.com/88017738/235731934-099b336c-9ed3-464b-aed8-f54b64cff7cb.jpg)
 
-our project can detect the eyes when the driver is wearing spectacles
+Our project can detect the eyes when the driver is wearing spectacles
 
 ![photo_2023-04-28_22-30-40](https://user-images.githubusercontent.com/88017738/235730974-390b9cc5-b1de-455e-80e0-0d4a855fb2e8.jpg)
 ![photo_2023-04-28_22-30-46](https://user-images.githubusercontent.com/88017738/235730989-27bf3383-8805-4327-a9c7-2b47b3c9bde6.jpg)
