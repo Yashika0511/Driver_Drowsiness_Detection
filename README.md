@@ -1,6 +1,6 @@
 # Driver Drowsiness detection system
 
-The objective of a “driver drowsiness detection system” is to monitor a driver's level of alertness and detect signs of drowsiness or fatigue while driving. This is achieved through various sensors and algorithms that analyze the driver's behavior, such as eye movement in which it detect the decreasing ratio of the eye’s landmarks . The system alerts the driver when it detects signs of drowsiness, allowing the driver to take necessary measures to prevent accidents.
+The objective of a “driver drowsiness detection system” is to monitor a driver's level of alertness and detect signs  of drowsiness or fatigue while driving. This is achieved through various sensors and algorithms that analyze the driver's behavior, such as eye movement in which it detect the decreasing ratio of the eye’s landmarks . The system alerts the driver when it detects signs of drowsiness, allowing the driver to take necessary measures to prevent accidents.
 
  The main aim of this system is to increase road safety by reducing the number of accidents caused by drowsy or fatigued drivers. 
  
